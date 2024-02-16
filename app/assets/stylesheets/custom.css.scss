@@ -1,1 +1,17 @@
-@import '@doabit/semantic-ui-sass/src/scss/semantic-ui.scss'
+@import '@doabit/semantic-ui-sass/src/scss/semantic-ui.scss';
+
+.chatbox {
+    height: 450px;
+}
+
+#btn {
+
+
+    width: 50%;
+}
+
+#sign-up {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
