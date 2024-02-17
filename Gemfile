@@ -57,4 +57,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'semantic-ui-sass'
 
+gem 'bcrypt', '~>3.1','>=3.1.5'
 gem 'jquery-rails'
+gem'hirb'
